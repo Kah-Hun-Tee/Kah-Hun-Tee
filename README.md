@@ -1,9 +1,11 @@
-### Hi there 👋
+#Hello there 👋
 
-- 🔭 I’m currently working on C programming
+- 🔭 I’m currently learning Python, Javascript, C programming Language
+- 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
 - 🌱 I’m currently a student at ALX Africa
 - 🤔 I’m looking for help with C programming
-- 💬 Ask me anything
-- 📫 How to reach me: Tumininu Onayemi-County on likedin
+- 💞️ I’m looking to collaborate on Great and innovative projects with Great minds. Cheers to making a difference in our society
+- 💬 You can reach me via twitter @BountyKahuntee and linkedIn https://www.linkedin.com/in/onayemi555
+- 📫 You can also reach me via email at toonmynynoo279@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love coffee
+- ⚡ Fun fact: I love coffee, beans and i am a chronic perfume fanatic
