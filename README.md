@@ -1,6 +1,6 @@
 ![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
-# _*Hola!!!*_ 👋
+# _*Hola!!!*_ ### I'm Velvet Brown 👋
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
 - 🌱 I’m currently a student at ALX Africa
