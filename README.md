@@ -11,3 +11,12 @@
 - 📫 You can also reach me via email at [@County](toonmynynoo279@gmail.com)
 - 😄 Pronouns: **She**
 - ⚡ Fun fact: I love coffee, beans and i am a chronic perfume fanatic
+
+
+```mermaid
+pie
+"C program" : 30
+"Javascript" : 20
+"HTML" : 20
+"Python" : 30
+```
