@@ -21,4 +21,5 @@ pie
 "HTML" : 20
 "Python" : 30
 ```
-https://devicon.dev/
+
+![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
