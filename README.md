@@ -3,8 +3,7 @@
 # Hola, I'm Velvet Brown👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
-![GitHub followers](https://img.shields.io/github/followers/Kah-Hun-Tee?style=social)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/Kah-Hun-Tee/alx-low_level_programming?color=%23ff0&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kah-Hun-Tee/alx-low_level_programming?logo=github&style=social)
 
 ---------
 - 🔭 I’m currently learning Python, Javascript, C programming Language
