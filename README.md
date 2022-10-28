@@ -12,7 +12,6 @@
 - 📫 You can also reach me via email at [@County](toonmynynoo279@gmail.com)
 - 😄 Pronouns: **She**
 - ⚡ Fun fact: I love coffee, beans and i am a chronic perfume fanatic
-- :joy:
 
 
 ```mermaid
@@ -22,3 +21,4 @@ pie
 "HTML" : 20
 "Python" : 30
 ```
+https://devicon.dev/
