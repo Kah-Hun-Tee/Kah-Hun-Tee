@@ -17,9 +17,11 @@
 - ⚡ Fun fact: I love coffee, beans and i am a chronic perfume fanatic
 
 <br/>
+
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 
 <br/>
+
 ```mermaid
 pie
 "C program" : 30
