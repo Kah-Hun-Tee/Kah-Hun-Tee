@@ -1,9 +1,11 @@
 ![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
-# Hola!!!👋
-### _*I'm Velvet Brown*_
+# Hola, I'm Velvet Brown👋
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
 ![GitHub followers](https://img.shields.io/github/followers/Kah-Hun-Tee?style=social)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Kah-Hun-Tee/alx-low_level_programming?color=%23ff0&logo=github)
+
 ---------
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
