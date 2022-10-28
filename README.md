@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:100px;" />
 
 <br/>
 
