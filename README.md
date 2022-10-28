@@ -2,6 +2,8 @@
 
 # Hola!!!👋
 ### _*I'm Velvet Brown*_
+![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
+![GitHub followers](https://img.shields.io/github/followers/Kah-Hun-Tee?style=social)
 ---------
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
@@ -21,5 +23,3 @@ pie
 "HTML" : 20
 "Python" : 30
 ```
-
-![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
