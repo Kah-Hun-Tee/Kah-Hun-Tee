@@ -34,15 +34,3 @@
 <img align="left" alt="Javasript" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:25px;" />
 <img align="left" alt="Visual Studio Code" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:25px;" />
 <img align="left" alt="Vim" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:25px;" />
-
-
-
------------
-
-```mermaid
-pie
-"C program" : 20
-"Javascript" : 20
-"HTML" : 40
-"Python" : 20
-```
