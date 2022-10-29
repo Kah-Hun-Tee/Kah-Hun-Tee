@@ -36,6 +36,6 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />
 
-<br />
+---
 
 <img align="left" alt="Kah-Hun-Tee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kah-Hun-Tee&show_icons=true&hide_borders=true" />
