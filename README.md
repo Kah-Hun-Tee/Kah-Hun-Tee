@@ -18,7 +18,9 @@
 
 <br/>
 
-<img align="left" alt="Python" width="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:100px;" />
+### Languages and Tools:
+
+<img align="left" alt="Python" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:80px;" />
 
 <br/>
 
