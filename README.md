@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola!;I'm+Velvet+Brown)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5010&pause=1010&color=F76929&center=true&vCenter=true&width=535&height=100&lines=Hola!!!;I'm+Velvet+Brown)](https://git.io/typing-svg)
 # *Hola, I'm Velvet Brown*👋
 
 - 🔭 I’m currently learning Python, Javascript, C programming Language
