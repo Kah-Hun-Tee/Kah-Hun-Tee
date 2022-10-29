@@ -38,4 +38,4 @@
 
 <br />
 
-<img align="left" alt="Kah-Hun-Tee's Github Stats" src="https://github-readme-stats.vercel.app/api?Kah-Hun-Tee=anuraghazra" />
+<img align="left" alt="Kah-Hun-Tee's Github Stats" src="[https://github-readme-stats.vercel.app/api?Kah-Hun-Tee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" />
