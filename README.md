@@ -6,6 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kah-Hun-Tee/alx-low_level_programming?logo=github&style=social)
 
 ---------
+
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
 - 🌱 I’m currently a student at ALX Africa
@@ -33,4 +34,4 @@
 <img align="left" alt="Vagrant" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Javasript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
-<img align="left" alt="Vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />
