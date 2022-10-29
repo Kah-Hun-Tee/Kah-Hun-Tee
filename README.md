@@ -1,7 +1,7 @@
 ![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
 
-# Hola, ### I'm Velvet Brown👋
+# _Hola, I'm Velvet Brown_👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kah-Hun-Tee/alx-low_level_programming?logo=github&style=social)
 
