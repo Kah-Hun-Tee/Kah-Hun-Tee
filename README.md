@@ -40,11 +40,3 @@
 
 <img align="left" alt="Kah-Hun-Tee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kah-Hun-Tee&show_icons=true&hide_borders=true" />
 
-<br />
-<br />
-<br />
-</details>
-[twitter]: https://twitter.com/BountyKahuntee
-[instagram]: https://www.instagram.com/the_velvet_brown
-[linkedin]: https://www.linkedin.com/in/onayemi555
-[whatsApp]: https://wa.me/message/QR5YXQNWRRIAJ1
