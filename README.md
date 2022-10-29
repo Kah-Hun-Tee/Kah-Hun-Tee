@@ -1,7 +1,6 @@
 ![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
 # Hola, I'm Velvet Brown👋
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/BountyKahuntee?color=%23ff0000)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kah-Hun-Tee/alx-low_level_programming?logo=github&style=social)
 
@@ -36,6 +35,8 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />
 
---------------
+
+----------
+
 
 <img align="left" alt="Kah-Hun-Tee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kah-Hun-Tee&show_icons=true&hide_borders=true" />
