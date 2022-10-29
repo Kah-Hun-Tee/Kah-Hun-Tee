@@ -1,6 +1,5 @@
-![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5010&pause=1010&color=F7C104&center=true&vCenter=true&width=1000&height=100&lines=Hola!!!;Mi+nombre+es+marr%C3%B3n+terciopelo;I+am+Velvet%3A%3ABrown;Nice+to+know+you!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5010&pause=1010&color=F7C104&center=true&vCenter=true&width=1000&height=100&lines=Hola!!!;I'm+Velvet+Brown)](https://git.io/typing-svg)
+![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
