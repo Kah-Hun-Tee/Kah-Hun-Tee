@@ -1,6 +1,7 @@
 ![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?Hello+there!=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola!;I'm+Velvet+Brown)](https://git.io/typing-svg)
+
 # *Hola, I'm Velvet Brown*👋
 
 - 🔭 I’m currently learning Python, Javascript, C programming Language
