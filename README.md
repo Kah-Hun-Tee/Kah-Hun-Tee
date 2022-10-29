@@ -20,8 +20,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:80px;" />
 
+<img align="left" alt="C" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:80px; />
+<img align="left" alt="Python" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:80px; />
+<img align="left" alt="Python" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:80px; />
 <img align="left" alt="Python" width="157px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:80px; />       
 
 -----------
