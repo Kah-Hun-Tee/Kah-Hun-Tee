@@ -19,10 +19,6 @@
 
 ----------
 
-<img align="left" alt="Twitter" width="50px" src="https://github.com/Kah-Hun-Tee/Kah-Hun-Tee/issues/2#issue-1428462494" style="padding-right:20px;" />
-
-----------
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
