@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5010&pause=1010&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Hola!!!;Mi+nombre+es+marr%C3%B3n+terciopelo;I+am+Velvet%3A%3ABrown;Nice+to+know+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5010&pause=1010&color=F7F7F7&center=true&vCenter=true&width=1000&height=100&lines=Hola!!!;Mi+nombre+es+marr%C3%B3n+terciopelo;My+name+is+Velvet%3A%3ABrown;Nice+to+know+you!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently learning Python, Javascript, C programming Language
 - 👀 I’m interested in Building and maintaing web apps, data analysis and V-ray Designs
