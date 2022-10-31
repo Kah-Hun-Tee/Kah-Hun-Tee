@@ -18,7 +18,7 @@
 [<img align="left" alt="WhatsApp" width="100px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:40px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
 [<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/114444517/199126863-a572f84c-64c8-45cb-9147-c5319109ca35.svg" style="padding-right:40px;" />](https://www.instagram.com/the_velvet_brown)
 
-----------
+
 <br />
 <br />
 <br />
@@ -41,7 +41,7 @@
 <img align="left" alt="Vim" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:20px;" />
 
 
-----------
+
 <br />
 <br />
 <br />
@@ -51,7 +51,7 @@
 <img align="left" alt="Kah-Hun-Tee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kah-Hun-Tee&show_icons=true&hide_borders=true" />
 
 
-----------
+
 <br />
 <br />
 <br />
@@ -59,4 +59,4 @@
 
 
 
-<img align="right" alt="Logo" width="156px" src="https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png" style="padding-right:50px;" />
+<img align="right" alt="Logo" width="250px" src="https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png" style="padding-right:100px;" />
