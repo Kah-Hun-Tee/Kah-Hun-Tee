@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-![986960_whatsapp_icon](https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg)
+<img align="left" alt="Github" width="50px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:20px;" />
 
 ----------
 
