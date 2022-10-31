@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love coffee, beans and i am a **chronic** perfume fanatic
 
 
-----------
+
 
 ### Connect with me:
 
@@ -22,6 +22,9 @@
 <br />
 <br />
 <br />
+<br />
+
+
 
 ### Languages and Tools:
 
