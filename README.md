@@ -8,6 +8,13 @@
 - 😄 Pronouns: **She** 💃
 - ⚡ Fun fact: I love coffee, beans and i am a **chronic** perfume fanatic
 
+
+----------
+
+### Connect with me:
+
+
+
 ----------
 
 ### Languages and Tools:
