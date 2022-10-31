@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="50px" src="https://user-images.githubusercontent.com/114444517/199126082-02a62cff-efed-4f95-b4f4-caf6caa85889.svg" style="padding-right:20px;" />](https://twitter.com/BountyKahuntee)
-[<img align="left" alt="Linkedin" width="50px" src="https://user-images.githubusercontent.com/114444517/199126391-daf343f7-f476-4369-9cc9-6c2981b1b0ab.svg" style="padding-right:20px;" />](https://www.linkedin.com/in/onayemi555)
-[<img align="left" alt="WhatsApp" width="50px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:20px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
-
+[<img align="left" alt="Twitter" width="100px" src="https://user-images.githubusercontent.com/114444517/199126082-02a62cff-efed-4f95-b4f4-caf6caa85889.svg" style="padding-right:40px;" />](https://twitter.com/BountyKahuntee)
+[<img align="left" alt="Linkedin" width="100px" src="https://user-images.githubusercontent.com/114444517/199126391-daf343f7-f476-4369-9cc9-6c2981b1b0ab.svg" style="padding-right:40px;" />](https://www.linkedin.com/in/onayemi555)
+[<img align="left" alt="WhatsApp" width="100px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:40px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
+[<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/114444517/199126863-a572f84c-64c8-45cb-9147-c5319109ca35.svg" style="padding-right:40px;" />](https://www.instagram.com/the_velvet_brown)
 
 ----------
 
@@ -55,4 +55,5 @@
 <br />
 
 
-![Polish_20220928_005421597](https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png)
+
+<img align="right" alt="Logo" width="50px" src="https://user-images.githubusercontent.com/114444517/198271325-e34594a3-c65c-46a4-a842-cb98a9b56f43.png" style="padding-right:20px;" />
