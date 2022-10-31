@@ -13,7 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Github" width="50px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:20px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
+[<img align="left" alt="Twitter" width="50px" src="https://user-images.githubusercontent.com/114444517/199126082-02a62cff-efed-4f95-b4f4-caf6caa85889.svg" style="padding-right:20px;" />](https://twitter.com/BountyKahuntee)
+[<img align="left" alt="WhatsApp" width="50px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:20px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
+
 
 ----------
 
