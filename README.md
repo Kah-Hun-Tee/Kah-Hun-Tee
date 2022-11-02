@@ -19,7 +19,7 @@
 [<img align="left" alt="Linkedin" width="100px" src="https://user-images.githubusercontent.com/114444517/199126391-daf343f7-f476-4369-9cc9-6c2981b1b0ab.svg" style="padding-right:40px;" />](https://www.linkedin.com/in/onayemi555)
 [<img align="left" alt="WhatsApp" width="100px" src="https://user-images.githubusercontent.com/114444517/199125409-abe95d6f-d60e-4060-aa51-a68df8cbee81.svg" style="padding-right:40px;" />](https://wa.me/message/QR5YXQNWRRIAJ1)
 [<img align="left" alt="Instagram" width="100px" src="https://user-images.githubusercontent.com/114444517/199126863-a572f84c-64c8-45cb-9147-c5319109ca35.svg" style="padding-right:40px;" />](https://www.instagram.com/the_velvet_brown)
-[<img align="left" alt="Youtube" width="100px" src="(https://user-images.githubusercontent.com/114444517/199480867-ef3289a7-7be9-4e56-bdcd-f13924bc.svg" style="padding-right:40px;" />](youtube.com/@Kah-Hun-Tee)
+[<img align="left" alt="Youtube" width="100px" src="(https://user-images.githubusercontent.com/114444517/199480867-ef3289a7-7be9-4e56-bdcd-f13924bc" style="padding-right:40px;" />](youtube.com/@Kah-Hun-Tee)
 
 
 
